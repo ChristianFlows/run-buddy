@@ -12,3 +12,5 @@ https://christianflows.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Christian
+
+### ©️2019 Run Buddy, Inc 
